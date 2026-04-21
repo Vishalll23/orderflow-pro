@@ -1,0 +1,14 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor folders
+.vscode/
+.idea/
+
+# Node (if you add a dev server later)
+node_modules/
+npm-debug.log
+
+# Build output
+dist/
